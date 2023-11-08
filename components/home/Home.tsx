@@ -1,4 +1,3 @@
-// Home.tsx
 import React from "react";
 import HomeItem from "./HomeItem";
 import Content from "./ContentInterface";

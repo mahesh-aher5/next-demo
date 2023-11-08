@@ -1,4 +1,3 @@
-"use client";
 import { content1, content2 } from "@/utils/constant/staticContent";
 import HomeSection from "@/components/home/HomeSection";
 import AboutSection from "@/components/home/AboutSection";
